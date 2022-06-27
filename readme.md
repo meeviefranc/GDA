@@ -29,6 +29,6 @@ GDA/
 ├── layout.py
 ├── dataviz.py
 ├── bikeshare.png
-├── VF_GDA_Capstone_CyclisticBike.ipynb
+├── cyclistic-bike-share.ipynb
 
 The Jupyter Notebook and datasets used are also available in Kaggle: https://www.kaggle.com/code/mvmlfranc/cyclistic-bike-share.
