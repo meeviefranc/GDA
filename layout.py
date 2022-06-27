@@ -48,7 +48,7 @@ dash_layout = dbc.Container([
     html.Hr(),
     dbc.Row([html.Hr(),
         html.H6('JUPYTER NOTEBOOK:'),
-        html.A("Link to Jupyter Notebook", href='VF_GDA_Capstone_CyclisticBike.ipynb', target="_blank"),
+        html.A("Link to Jupyter Notebook", href='https://www.kaggle.com/code/mvmlfranc/cyclistic-bike-share', target="_blank"),
         dbc.Col([
             txt_me('A Jupyter Notebook version of this analysis is available in the repository.'),
             txt_me('The notebook was used to collect data from the Month-Year csv files and store it into one csv file.'),

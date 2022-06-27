@@ -24,10 +24,11 @@ This project has the following file structure:
 
 ```python
 GDA/
-├── csv/
 ├── main.py
 ├── app.py
 ├── layout.py
 ├── dataviz.py
 ├── bikeshare.png
 ├── VF_GDA_Capstone_CyclisticBike.ipynb
+
+The Jupyter Notebook and datasets used are also available in Kaggle: https://www.kaggle.com/code/mvmlfranc/cyclistic-bike-share.
