@@ -20,6 +20,10 @@ My 4th wall: This case study is originally intended for R. My personal goal howe
 
 The data visualization for the project can be reviewed using the Jupyter Notebook or the Dash application.
 
+Related Links:
+- Dash : https://vfgda.herokuapp.com
+- Jupyter Notebook: https://www.kaggle.com/code/mvmlfranc/cyclistic-bike-share
+
 This project has the following file structure:
 
 ```python
@@ -31,4 +35,5 @@ GDA/
 ├── bikeshare.png
 ├── cyclistic-bike-share.ipynb
 
+The dash application can be seen in action in Heroku using this link: https://vfgda.herokuapp.com .
 The Jupyter Notebook and datasets used are also available in Kaggle: https://www.kaggle.com/code/mvmlfranc/cyclistic-bike-share.
